@@ -1,4 +1,4 @@
 # AWS Credentials
-aws_access_key_id = AKIAY76N3ETECHKNXSVT
-aws_secret_access_key = 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
+aws_access_key_id = 
+aws_secret_access_key = 
 
